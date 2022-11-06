@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #2bb656;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  padding: 50px;
+}
+
+h1 {
+  color: #273333;
+  font-size: 40px;
+  margin-bottom: 25px;
+}
+
+.first {
+  color: azure;
+}
+
+#your-name {
+  background-color: #008b56;
+  border: 5px dotted #273333;
+}
